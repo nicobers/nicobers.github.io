@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Nico
 middle_name: G.
 last_name: Bers
-contact_note: Email me! <a href="mailto:nicobers2027@u.northwestern.edu" target="_blank">nicobers2027@u.northwestern.edu</a>.
+contact_note: Email me! <a href="mailto:nicobers2027@u.northwestern.edu" target="_blank">nicobers2027@u.northwestern.edu</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -112,6 +112,20 @@ giscus:
   emit_metadata: 0
   lang: en
 
+# Disqus comments (DEPRECATED)
+disqus_shortname: al-folio # put your disqus shortname
+# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+
+# External sources.
+# If you have blog posts published on medium.com or other external sources,
+# you can display them in your blog by adding a link to the RSS feed.
+external_sources:
+  - name: medium.com
+    rss_url: https://medium.com/@al-folio/feed
+  - name: Google Blog
+    posts:
+      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -127,6 +141,8 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
+  books:
+    output: true
   news:
     defaults:
       layout: post
@@ -168,6 +184,7 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
+  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -244,8 +261,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: Bers
-  first_name: Nico G.
+  last_name: [Einstein]
+  first_name: [Albert, A.]
 
   style: apa
   locale: en
