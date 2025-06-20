@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Evanston, IL;</p>
-    <p>Winchester, MA;</p>
+    <p>Evanston, IL & Winchester, MA</p><br>
     <p>Melbourne, AU</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
