@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Northwestern University —— Dept. of Physics & Astronomy<br>Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA)
+subtitle: Northwestern University<br>Dept. of Physics & Astronomy, Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Evanston, IL</p>
-    <p>Winchester, MA</p>
+    <p>Evanston, IL;</p>
+    <p>Winchester, MA;</p>
     <p>Melbourne, AU</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
