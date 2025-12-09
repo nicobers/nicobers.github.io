@@ -52,7 +52,18 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{
+    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-honorable-mention-for-universities-space-research-association-distinguished-undergraduate-award",
+          title: 'Honorable mention for Universities Space Research Association Distinguished Undergraduate Award.',
+          description: "",
+          section: "News",},{id: "news-probing-the-peak-of-star-formation-with-the-stochastic-background-of-binary-black-hole-mergers-accepted-to-the-astrophysical-journal",
+          title: 'Probing the peak of star formation with the stochastic background of binary black...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2.html";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
