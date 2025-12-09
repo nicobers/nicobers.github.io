@@ -17,12 +17,8 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a third year undergraduate student at Northwestern University, majoring in Physics with a concentration in Astronomy and a minor in Machine Learning and Data Science. I am interested in gravitational wave research and have been a member of the LIGO Scientific Collaboration since September 2023, have worked with Prof. Sylvia Biscoveanu in Prof. Vicky Kalogera's research group to study some of the farthest black hole collisions in the universe. Since July 2025, I have been working in Prof. Andrew Melatos's group at the University of Melbourne using adaptive noise cancellation to improve continuous gravitational-wave searches for neutron stars.
