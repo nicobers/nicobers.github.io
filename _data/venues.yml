@@ -1,9 +1,9 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"ApJ":
+  url: https://iopscience.iop.org/journal/0004-637X
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+# "PhysRevD":
+#   url: https://journals.aps.org/
 
 "Vision":
   color: "#009f36"
