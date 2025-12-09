@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: *Probing the peak of star formation with the stochastic background of binary black hole mergers* accepted to The Astrophysical Journal.
 date: 2025-11-20 08:11:00-0400
 inline: false
 related_posts: false
