@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Evanston, IL & Winchester, MA</p><br>
-    <p>Melbourne, AU</p>
+    <p>Evanston, IL & Winchester, MA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third year undergraduate student at Northwestern University, majoring in Physics with a concentration in Astronomy and a minor in Artifical Intelligence. I am interested in gravitational wave research and have been a member of the LIGO Scientific Collaboration since September 2023, working with Dr. Sylvia Biscoveanu within Dr. Vicky Kalogera's research group to study some of the farthest black hole collisions in the universe.
+I am a third year undergraduate student at Northwestern University, majoring in Physics with a concentration in Astronomy and a minor in Machine Learning and Data Science. I am interested in gravitational wave research and have been a member of the LIGO Scientific Collaboration since September 2023, have worked with Prof. Sylvia Biscoveanu in Prof. Vicky Kalogera's research group to study some of the farthest black hole collisions in the universe. Since July 2025, I have been working in Prof. Andrew Melatos's group at the University of Melbourne using adaptive noise cancellation to improve continuous gravitational-wave searches for neutron stars.
