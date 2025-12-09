@@ -71,7 +71,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Nico Bers", "_blank");
+          window.open("https://www.linkedin.com/in/nico-bers", "_blank");
         },
       },{
         id: 'social-orcid',
