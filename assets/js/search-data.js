@@ -58,8 +58,8 @@ ninja.data = [{
           section: "News",},{id: "news-honorable-mention-for-universities-space-research-association-distinguished-undergraduate-award",
           title: 'Honorable mention for Universities Space Research Association Distinguished Undergraduate Award.',
           description: "",
-          section: "News",},{id: "news-probing-the-peak-of-star-formation-with-the-stochastic-background-of-binary-black-hole-mergers-accepted-to-the-astrophysical-journal",
-          title: 'Probing the peak of star formation with the stochastic background of binary black...',
+          section: "News",},{id: "news-probing-the-peak-of-star-formation-with-the-stochastic-background-of-binary-black-hole-mergers-published-in-the-astrophysical-journal",
+          title: 'Probing the Peak of Star Formation with the Stochastic Background of Binary Black...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
