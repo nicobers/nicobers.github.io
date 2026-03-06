@@ -77,7 +77,7 @@ pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: j_tNVZ_e-EiHJnfHXIFYGS6eoEEFevYOcXi2v-w__1I
+google_site_verification: 1PH-uJs9CgP1tVfu-4RxIQbej6BShrmToHB7PZI3ddg
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 
