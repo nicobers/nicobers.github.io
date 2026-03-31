@@ -63,7 +63,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{
+            },},{id: "news-2026-goldwater-scholar-barry-goldwater-scholarship",
+          title: '2026 Goldwater Scholar Barry Goldwater Scholarship.',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
