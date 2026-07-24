@@ -66,6 +66,9 @@ ninja.data = [{
             },},{id: "news-2026-goldwater-scholar-barry-goldwater-scholarship",
           title: '2026 Goldwater Scholar Barry Goldwater Scholarship.',
           description: "",
+          section: "News",},{id: "news-contributed-talk-at-the-harvard-smithsonian-cfa-astroai-workshop-abstract",
+          title: 'Contributed talk at the Harvard Smithsonian CfA AstroAI Workshop Abstract.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
