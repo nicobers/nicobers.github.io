@@ -22,3 +22,6 @@ announcements:
 ---
 
 I am a third year undergraduate student at Northwestern University, majoring in Physics with a concentration in Astronomy and a minor in Machine Learning and Data Science. I am a 2026 Goldwater Scholar and am currently doing research with Dr. Elena Murchikova and Dr. Mark Gorski using ALMA radio telescope data and machine learning techniques to study molecular and ionized gases near our galaxy's supermassive black hole, Sgr A$^*$. I am also interested in gravitational wave research and have been a member of the LIGO Scientific Collaboration since September 2023, have worked with Dr. Sylvia Biscoveanu in Dr. Vicky Kalogera's research group to study some of the farthest black hole collisions in the universe. Since July 2025, I have been working in Dr. Andrew Melatos's group at the University of Melbourne using adaptive noise cancellation to improve continuous gravitational-wave searches for neutron stars.
+
+
+See a class project I did measuring the distance to a dark matter-less galaxy, DF2, [here]({{ '/assets/pdf/ASTRON_321_421_final_report_Nico_Bers (2).pdf' | relative_url }}){:target="_blank"}
