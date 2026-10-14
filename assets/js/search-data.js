@@ -69,7 +69,12 @@ ninja.data = [{
           section: "News",},{id: "news-contributed-talk-at-the-harvard-smithsonian-cfa-astroai-workshop-abstract",
           title: 'Contributed talk at the Harvard Smithsonian CfA AstroAI Workshop Abstract.',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-announcement-5",
+          title: 'Announcement_5',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5.html";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
