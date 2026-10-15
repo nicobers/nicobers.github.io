@@ -6,7 +6,7 @@ subtitle: Northwestern University<br>Dept. of Physics & Astronomy, Center for In
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 2314a1f2-3ece-4479-90b8-1943317c5032.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Evanston, IL & Winchester, MA</p>
