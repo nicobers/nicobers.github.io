@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Probing the Peak of Star Formation with the Stochastic Background of Binary Black Hole Mergers published in The Astrophysical Journal.
+title: "Probing the Peak of Star Formation with the Stochastic Background of Binary Black Hole Mergers" published in The Astrophysical Journal.
 date: 2026-1-16 08:11:00-0400
 inline: false
 related_posts: false
