@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: page
 date: 2026-10-06 15:59:00-0400
 title: Submitted "Enhancing searches for gravitational waves from the Crab pulsar in LIGO’s O3b with adaptive noise cancellation" to Physical Review D.
 inline: false
