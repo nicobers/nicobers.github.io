@@ -69,8 +69,8 @@ ninja.data = [{
           section: "News",},{id: "news-contributed-talk-at-the-harvard-smithsonian-cfa-astroai-workshop-abstract",
           title: 'Contributed talk at the Harvard Smithsonian CfA AstroAI Workshop Abstract.',
           description: "",
-          section: "News",},{id: "news-submitted-enhancing-searches-for-gravitational-waves-from-the-crab-pulsar-in-ligo-s-o3b-with-adaptive-noise-cancellation-to-physical-review-d",
-          title: 'Submitted *Enhancing searches for gravitational waves from the Crab pulsar in LIGO’s O3b...',
+          section: "News",},{id: "news-submitted-quot-enhancing-searches-for-gravitational-waves-from-the-crab-pulsar-in-ligo-s-o3b-with-adaptive-noise-cancellation-quot-to-physical-review-d",
+          title: 'Submitted &amp;quot;Enhancing searches for gravitational waves from the Crab pulsar in LIGO’s O3b...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5.html";
