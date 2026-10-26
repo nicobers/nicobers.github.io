@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-2026 Goldwater Scholar [Barry Goldwater Scholarship](https://goldwaterscholarship.gov/). 
+2026 Goldwater Scholar. See: [Northwestern Now article](https://news.northwestern.edu/stories/2026/4/two-northwestern-students-named-goldwater-scholars). 
