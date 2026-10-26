@@ -63,8 +63,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "news-2026-goldwater-scholar-barry-goldwater-scholarship",
-          title: '2026 Goldwater Scholar Barry Goldwater Scholarship.',
+            },},{id: "news-2026-goldwater-scholar-see-northwestern-now-article",
+          title: '2026 Goldwater Scholar. See: Northwestern Now article.',
           description: "",
           section: "News",},{id: "news-contributed-talk-at-the-harvard-smithsonian-cfa-astroai-workshop-abstract",
           title: 'Contributed talk at the Harvard Smithsonian CfA AstroAI Workshop Abstract.',
