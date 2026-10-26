@@ -9,7 +9,7 @@ profile:
   image: 2314a1f2-3ece-4479-90b8-1943317c5032.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Evanston, IL & Winchester, MA</p>
+    <p>Evanston IL|Winchester MA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,4 +27,4 @@ I am a fourth year undergraduate student at Northwestern University, majoring in
 See a class project I did measuring the distance to a dark matter-less galaxy, DF2, [here]({{ '/assets/pdf/ASTRON_321_421_final_report_Nico_Bers (2).pdf' | relative_url }}){:target="_blank"}.
 
 ## Research Interests:
-### Supermassive black holes ——— compact object mergers ——— gravitational waves
+Supermassive black holes ——— compact object mergers ——— gravitational waves
