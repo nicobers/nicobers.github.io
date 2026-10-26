@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Honorable mention for [Universities Space Research Association Distinguished Undergraduate Award](https://newsroom.usra.edu/universities-space-research-association-proudly-announces-the-2025-distinguished-undergraduate-award-recipients/). 
+Honorable mention for [Universities Space Research Association Distinguished Undergraduate Award](https://www.usra.edu/educational-activities-and-opportunities/usra-distinguished-undergraduate-awards/2025-awardees-and-honorable-mentions/). 
