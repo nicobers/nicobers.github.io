@@ -1,11 +1,13 @@
-
 ---
 layout: page
-title: Teaching
 permalink: /teaching/
+title: teaching
+description: Teaching and mentorship experience.
 nav: true
 nav_order: 5
 ---
+
+<!-- _pages/teaching.md -->
 
 My teaching experience has shaped how I approach physics and
 computer science: I enjoy helping students develop an intuitive
