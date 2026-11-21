@@ -26,5 +26,5 @@ I am a fourth year undergraduate student at Northwestern University, majoring in
 
 See a class project I did measuring the distance to a dark matter-less galaxy, DF2, [here]({{ '/assets/pdf/ASTRON_321_421_final_report_Nico_Bers (2).pdf' | relative_url }}){:target="_blank"}.
 
-## Research Interests:
-Supermassive black holes ——— compact object mergers ——— gravitational waves
+### Research Interests:
+**Supermassive black holes — compact object mergers — gravitational waves - high-energy astrophysics**
